@@ -1,2 +1,3 @@
-# Python-project
-.
+# BKW.com
+bkw.com est une application web développée avec le framework Django (Python), dédiée à la vente et à la gestion de livres en ligne. Le projet met en œuvre une architecture web structurée permettant l’affichage dynamique d’un catalogue de livres, la consultation des informations détaillées de chaque ouvrage (titre, auteur, prix, description) ainsi que l’administration du contenu via une interface sécurisée. La plateforme repose sur une base de données relationnelle pour assurer une gestion fiable et évolutive des données. Ce projet a été réalisé dans un cadre de travail collaboratif et vise à appliquer les bonnes pratiques du développement web
+
